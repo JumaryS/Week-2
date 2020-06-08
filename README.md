@@ -70,3 +70,15 @@ Select the word you want (that has multiple copies) Command shift L to select al
 
 # Day 4
 
+1. Strings: A string is a sequence of one or more characters that may consist of letters, numbers, or symbols. Strings in JavaScript are primitive data types and immutable, which means they are unchanging.
+
+2. Return values: "The return statement stops the execution of a function and returns a value from that function. ... Start with the introduction chapter about JavaScript Functions and JavaScript Scope. For more detailed information, see our Function Section on Function Definitions, Parameters, Invocation and Closures."
+
+3. Parameters: are variables listed as a part of the function definition.
+
+# We learned about Quokka:
+
+ You can go back and change your code
+Quokka  shows you your error and finishes your sentences 
+
+
