@@ -24,7 +24,7 @@ We learned that Java Script is the same as Java
 6. Undefine: assigns 'undefined' to any object that has been declared but not initialized or defined. In other words, in a case where no value has been explicitly assigned to the variable, JavaScript calls it 'undefined'. 2. Array index or object property that does not exist.
 
 7.  Let:  let allows you to declare variables that are limited to a scope of a block statement, or expression on which it is used, unlike the var keyword, which defines a variable globally, or locally to an entire function regardless of block scope.
-# did some research 
+# Did some research 
 
             1. Const: The difference in const variable declaration than others is that it cannot be reassigned. Properties: ... The values inside the const array can be change, it can add new items to const arrays but it cannot reference to a new array.
    
