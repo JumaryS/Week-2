@@ -1,6 +1,6 @@
-# Week-2
+# Week-3
 
-# what-i-learned-in-week-2
+# what-I-learned-in-week-3
 
 * Day 0:
 
